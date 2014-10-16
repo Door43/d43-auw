@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auw:home|Door43 (auw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auw|d43-auw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auw/archive/master.zip|d43-auw.zip]]
+
+**Recent Changes**
+{{changes>ns = auw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auw|Ethnologue data]]
+
